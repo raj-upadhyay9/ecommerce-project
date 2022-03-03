@@ -1,6 +1,6 @@
 # E-commerce Website With Django + React
 
-This project is from my Django + React collaboration.
+This project is made with Django and React.
 
 ![DEMO](../master/static/images/proshop_django_demo.png)
 
